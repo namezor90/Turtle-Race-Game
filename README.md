@@ -16,7 +16,7 @@ Szórakoztató fogadásos játék, ahol színes teknősök versenyeznek egymáss
 ## 🚀 Telepítés
 
 ```bash
-git clone https://github.com/yourusername/turtle-race.git
+git clone https://github.com/namezor90/turtle-race.git
 cd turtle-race
 python main.py
 ```
@@ -70,7 +70,7 @@ A játék testreszabható a következő paraméterekkel:
 
 ## 👥 Szerzők
 
-- [@yourusername](https://github.com/yourusername)
+- [@yourusername](https://github.com/namezor90)
 
 ## 🎮 Jövőbeli fejlesztési lehetőségek
 
