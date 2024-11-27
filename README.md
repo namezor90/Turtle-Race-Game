@@ -70,7 +70,7 @@ A játék testreszabható a következő paraméterekkel:
 
 ## 👥 Szerzők
 
-- [@yourusername](https://github.com/namezor90)
+- [@namezor90](https://github.com/namezor90)
 
 ## 🎮 Jövőbeli fejlesztési lehetőségek
 
